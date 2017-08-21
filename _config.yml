@@ -1,1 +1,4 @@
 theme: jekyll-theme-merlot
+type:github
+branch：master
+repository:https://github.com/wangyanaq/todo
